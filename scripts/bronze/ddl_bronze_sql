@@ -1,5 +1,9 @@
--- ddl bronze sql
--- creating tables(6) tables  
+--=============================================================
+-- ddl script :- create bronze table 
+-- creating (6) tables  
+-- creating these table in the schema - bronze.
+-- run these table to redefine the ddl structuer of bronze.
+--===========================================================
 
 if object_id('bronze.crm_cust_info','u') is not NULL
     drop table bronze.crm_cust_info
