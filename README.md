@@ -8,7 +8,7 @@
   # objective
    develop a modern data warehouse using sql server to consolidate dales date embiding analytical reporting and informed decision-maling
 
-  * data source
+  * data source :-
      import data from two source sustems(ERP & CSV) provided as CSV files.
 
 # data architecture
