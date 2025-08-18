@@ -1,4 +1,10 @@
 /* checking the quality of data(silver layer) in each table (total table =6)
+  what i do?
+--> tracking null and duplicate pk
+-->unwanted spaces in string fields.
+-->data standardization and consistency.
+-->invalid data ranges.
+-->data consistancy in related field
 */
 
 
