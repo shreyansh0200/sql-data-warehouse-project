@@ -1,7 +1,7 @@
 /*
 --> stored procedure : load silver layer (bronz->silver)
 -->preform :- 1: ELT
--->TRUNCATE and LOAD.
+-->           2:TRUNCATE and LOAD.
 
 command use for loding execution :-   silver.load_silver;
 */
